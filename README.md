@@ -1,5 +1,5 @@
 # hello_world
-the first github repository, nothing important in 
+This is the first github repository, and there is nothing important in it. 
 -------------------------------------------------
 This is a practice. So just ignore it, please.
 --
